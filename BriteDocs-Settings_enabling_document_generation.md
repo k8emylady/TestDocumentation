@@ -1,11 +1,3 @@
----
-title: BriteDocs-Settings_enabling_document_generation
-layout: post
-author: BriteCore
-permalink: /britedocs-settings-enable-document-generation/
-source-id: 10TKl7ZVZ6MudB97PH92tuoUvIUeGMsVTBPIelw_dEGE
-published: true
----
 # Enable document generation functionality
 
 BriteDocs allows users to create and manage their own templates as well as  generate documents in BriteCore. There are three steps in setting up BriteDocs for a user: 
