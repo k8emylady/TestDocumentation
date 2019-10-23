@@ -17,10 +17,10 @@ BriteDocs allows users to create and manage their own templates as well as  gene
 
 2. In the Settings sidebar, click **Vendors**.
 
-3. Under **Document Generation**, select** BriteDocs**.
+3. Under **Document Generation**, select **BriteDocs**.
 
 <!-- ![image alt text]({{ site.url }}/public/bJb52k0Nhywmx8xE4WaTQ_img_1.png)-->
 **Figure 2:** Save Changes
 
-4. Navigate to the footer and click **Save **to confirm changes.
+4. Navigate to the footer and click **Save** to confirm changes.
 
